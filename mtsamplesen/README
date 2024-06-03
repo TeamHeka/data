@@ -1,0 +1,4 @@
+This foder contains two examples of Discharges summaries from MTSAMPLES.
+MTSAMPLES is available online at https://mtsamples.com/
+
+Drugs mentionned in these discharge summaries have been manually annotated with Brat (https://brat.nlplab.org/).
